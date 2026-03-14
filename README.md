@@ -17,3 +17,6 @@ An AI-powered flight price predictor that tells you Book Now or Wait.
 
 ## Tech Stack
 Python, LightGBM, RandomForest, Pandas, Scikit-learn, Matplotlib
+
+## License
+MIT License — feel free to use and build on this project.
